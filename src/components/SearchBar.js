@@ -8,7 +8,7 @@ class SearchBar extends React.Component {
       <div className="ui segment">
         <form className="ui form">
           <div className="field">
-            <label className="image-search-label">Images Search</label>
+            <label className="image-search-label">Search Images</label>
             {/* this is an uncontrolled form element */}
             <input
               type="text"
